@@ -1,0 +1,27 @@
+body {
+  font-family: 'Roboto', sans-serif; }
+
+header, footer {
+  background-color: #1B65A6; }
+
+h2 {
+  color: #083040; }
+
+.service-card {
+  background-color: #9CBCD9;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center; }
+
+.input-field {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 16px;
+  border-radius: 8px; }
+
+.btn-submit {
+  background-color: #1B65A6;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 8px; }
+

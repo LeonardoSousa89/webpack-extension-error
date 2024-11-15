@@ -1,0 +1,40 @@
+$primary-color: #1B65A6;
+$secondary-color: #1D4B73;
+$accent-color: #9CBCD9;
+$bg-color: #417FA6;
+$text-color: #083040;
+$dark:#545454;
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+header, footer {
+  background-color: $primary-color;
+}
+
+h2 {
+  color: $text-color;
+}
+
+.service-card {
+  background-color: $accent-color;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.input-field {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 16px;
+  border-radius: 8px;
+}
+
+.btn-submit {
+  background-color: $primary-color;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 8px;
+}
+
